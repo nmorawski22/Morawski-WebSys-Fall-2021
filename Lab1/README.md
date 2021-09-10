@@ -12,6 +12,8 @@ We created an index html page, a single css file, and a resources and an individ
 
 Regarding challenges - one of our first complications involved using a "global" css file, because our previous resumes from intro to ITWS all had different stylistic choices. Thus, we decided to settle on using one template that served as the baseline for each of our resumes such that we would not need to use unique CSS. This change allowed for us to have a more uniform site overall. Additionally, after some vigorous searching online, we found that we could actually use CSS to format the hcard microformatting that we used on our HTML. 
 
+We chose to include a web-based font, taken from Google Fonts (https://fonts.google.com/). The name of the font is "Playfair Display", and it was imported into our style.css file. It is used throughout the web application, finding use into all of our head and body tags.
+
 Listed below are some helpful resources that we used: 
 https://microformats.org
 https://www.w3schools.com/howto/howto_css_three_columns.asp
